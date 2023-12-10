@@ -11,7 +11,7 @@ Through mining bitcoins by manual labor and smart investments, you can eventuall
   <img src="resources/images/r2.png" alt="Alt text" width="400">
 </p>
 
-all while Bitti, the bitcoin lectures you about the blockchain and bitcoin. Once you max out your bitcoin empire you will will hopefully have also maxed out your blockchain and bitcoin knowledge!
+all while Bitti, the bitcoin lectures you about the blockchain and bitcoin. Once you max out your bitcoin empire you will hopefully have also maxed out your knowledge about the blockchain and bitcoin!
 
 <p align="center">
   <img src="resources/images/r3.png" alt="Alt text" width="400">
