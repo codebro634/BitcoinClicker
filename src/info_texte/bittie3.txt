@@ -1,0 +1,2 @@
+Die Dezentralisierung des Bitcoin hat den Vorteil, dass ein Schutz vor Banken- und Behördenwillkür gewährleistet ist. So ist Bitcoin z.B. nicht betroffen von Negativzinsen. Außerdem ist er unabhängig von Wirtschafts- und Währungskrisen.
+Die Dezentralisierung trägt aber auch so manche Nachteile mit sich. In Krisenzeiten gibt es keine Notenbanken, die kursstabilisierend eingreifen würden. Des weiteren ist der Bitcoin der Markmanipulation durch große Teilnehmer ausgesetzt, da es keine kontrollierende Instanz gibt.

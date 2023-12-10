@@ -1,0 +1,1 @@
+Bitcoin-Transaktion werden durch kryptographischen Methoden sichergestellt, sodass nur der jeweilige Eigentuemer Zugriff auf die Transaktionen hat.

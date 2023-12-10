@@ -1,0 +1,1 @@
+Eine Faelschung von Einheiten und Transaktion ist durch eine asymmetrische kryptographische Verfahren nicht moeglich. Durch das Proof-of-Work Verfahren ist das doppelte Ausgeben des selben Bitcoins nicht moeglich.

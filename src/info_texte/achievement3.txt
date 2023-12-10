@@ -1,0 +1,1 @@
+Das Bitcoinnetzwerk wid durch software zu einer dezentralen Datenbank( der Blockchain), in welcher alle Transaktionen verzeichnet werden.
