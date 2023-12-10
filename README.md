@@ -1,17 +1,17 @@
 # BitcoinClicker
-Educational, German game about Bitcoin and the Blockchain. Start with 0 bitcoins and knowledge
+Educational, German game about Bitcoin and the Blockchain. You start with zero bitcoins and perhaps zero knowledge about the blockchain and bitcoins.
 
 <p align="center">
   <img src="resources/images/r1.png" alt="Alt text" width="400">
 </p>
 
-and later become a bitcoin-billionaire by mining bitcoins through clicks and smart investments
+Through mining bitcoins by manual labor and smart investments, you can eventually become a bitcoin-billionaire
 
 <p align="center">
   <img src="resources/images/r2.png" alt="Alt text" width="400">
 </p>
 
-all while Bitti, the bitcoin lectures you about the blockchain and bitcoin.
+all while Bitti, the bitcoin lectures you about the blockchain and bitcoin. Once you max out your bitcoin empire you will will hopefully have also maxed out your blockchain and bitcoin knowledge!
 
 <p align="center">
   <img src="resources/images/r3.png" alt="Alt text" width="400">
