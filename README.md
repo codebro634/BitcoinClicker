@@ -1,5 +1,5 @@
 # BitcoinClicker
-Educational, German game about Bitcoin and the Blockchain. You start with zero bitcoins and perhaps zero knowledge about the blockchain and bitcoins.
+Educational, German game about Bitcoin and the Blockchain from 2017. You start with zero bitcoins and perhaps zero knowledge about the blockchain and bitcoins.
 
 <p align="center">
   <img src="resources/images/r1.png" alt="Alt text" width="400">
